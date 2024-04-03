@@ -250,7 +250,10 @@
   --color-input-background: #2C2F35;
   --color-input-border: #2C2F35;
   --color-input-border-hover: #505667;
-  --color-navbar: #24262B;
+  --color-header-wrapper: #2a2e3a;
+  --color-header-wrapper-transparent: #2a2e3a00;
+  --color-nav-bg: #2e323e;
+  --color-nav-hover-bg: #434651;
   --color-light: #00000028;
   --color-light-border: #ffffff28;
   --color-hover: #ffffff10;
@@ -830,4 +833,3 @@ img[src$="/img/matrix.svg"] {
 .monaco-editor .view-lines {
 	filter: invert(1) !important;
 }
-

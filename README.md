@@ -15,3 +15,11 @@ DEFAULT_THEME                     = earl-grey
 THEMES                            = gitea,arc-green,...,earl-grey
 ```
 
+## Updating
+
+Usage (only argument in is Gitea version):
+
+```
+./get.sh 1.21.10
+```
+
